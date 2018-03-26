@@ -1,2 +1,2 @@
 # hello-world
-first test repo fpr get started with github
+first test repo for get started with github
